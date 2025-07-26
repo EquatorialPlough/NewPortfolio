@@ -97,6 +97,7 @@
     border-radius: 15px;
     transition: transform 0.3s ease;
     transition-duration: 0.3s;
+    color: white;
 }
 
 .card:hover
